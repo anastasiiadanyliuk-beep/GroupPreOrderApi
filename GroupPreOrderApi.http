@@ -1,0 +1,6 @@
+@GroupPreOrderApi_HostAddress = http://localhost:5000
+
+GET {{GroupPreOrderApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
